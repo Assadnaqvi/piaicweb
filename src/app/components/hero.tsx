@@ -13,7 +13,7 @@ const Hero = () => {
   <div className='static ... flex justify-end text-sm  mt-10 text-left mr-16'>The mission of PIAIC is to reshape Pakistan by revolutionizing education, research, and business by adopting <br/>latest, cutting-edge technologies. Experts are calling this the 4th industrial revolution. We want Pakistan to <br/>become a global hub for AI, data science, cloud native computing, edge computing, blockchain, augmented <br/>reality, and internet of things.</div>
   </div>
   <div className='static ... flex justify-end text-sm  mt-28 text-left mr-40'>
-  <button className="bg-teal-600 text-lg hover:bg-teal-700 pt-0 pb-0 px-8 rounded-md text-slate-50">Apply</button>
+  <button className="bg-gradient-to-r from-teal-400 to-teal-800 ...pt-0 pb-0 px-8 rounded-md text-slate-50">Apply</button>
 
 <div className=''><text className='text-xl font-black ml-4'>| 100k.</text><br/><text className='text-xs ml-8'>applications Received</text></div>
 </div>
