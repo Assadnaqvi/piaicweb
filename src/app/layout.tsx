@@ -2,6 +2,10 @@ import Navbar from './components/navbar'
 import './globals.css'
 import Hero from './components/hero'
 import Programs from './components/programs'
+import Contact from './components/contact-us'
+import Images from './components/image'
+import Partners from './components/partners'
+import PoweredBy from './components/poweredby'
 export default function RootLayout({
   children,
 }: {
@@ -18,6 +22,10 @@ export default function RootLayout({
       <Navbar/>
       <Hero/>
       <Programs/>
+     <Images/>
+     <Partners/>
+     <Contact/>
+      <PoweredBy/>
       </body>
      
     </html>
